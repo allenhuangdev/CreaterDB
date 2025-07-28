@@ -1,11 +1,11 @@
-# createrDB 作業
+# CreaterDB 作業
 
-這是 createrDB 的程式作業專案，包含三個問題的解答。
+這是 CreaterDB 的程式作業專案，包含三個問題的解答。
 
 ## 專案結構
 
 ```
-createrDB/
+CreaterDB/
 ├── problem1-fillmetrics/     # 問題1: 填補缺失的指標數據
 ├── problem2-debug/           # 問題2: 除錯修復
 ├── problem3-database-schema/ # 問題3: 資料庫架構設計
