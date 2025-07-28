@@ -37,5 +37,6 @@ createrDB/
 
 ```bash
 cd problem1-fillmetrics
+npm install
 npm test
 ```
